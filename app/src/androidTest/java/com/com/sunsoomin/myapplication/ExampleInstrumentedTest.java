@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         Context appContext = InstrumentationRegistry.getTargetContext();
 
         assertEquals("com.com.sunsoomin.myapplication", appContext.getPackageName());
-        System.out.println("I love SOOMIN!!!!!!!!!!!!!!!!!!!!!!!");
+        System.out.println("I love SOOMIN!!!!!!!!!!!!!!!!!!!!!!! na");
     }
 }
